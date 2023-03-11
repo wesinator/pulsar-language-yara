@@ -1,8 +1,8 @@
 {
   "name": "language-yara",
-  "version": "3.10.0",
-  "description": "Atom syntax highlighting for Yara Rule files",
-  "repository": "https://github.com/blacktop/language-yara",
+  "version": "3.10.1",
+  "description": "Syntax highlighting for YARA rules",
+  "repository": "https://github.com/wesinator/pulsar-language-yara",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
