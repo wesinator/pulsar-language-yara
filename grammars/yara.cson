@@ -1,5 +1,5 @@
 'scopeName': 'source.yara'
-'fileTypes': ['yara', 'yar']
+'fileTypes': ['yara', 'yar', 'rule']
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
 'foldingStopMarker': '\\*\\*/|^\\s*\\}'
 'name': 'YARA'
